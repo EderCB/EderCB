@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eder
+- 👋 Hi, I’m @Eder from Peru
 - 👀 I’m interested in frontend
 - 🌱 I’m currently learning JS
 

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eder from Peru
-- 👀 I’m interested in frontend
-- 🌱 I’m currently learning JS
+- 👀 I’m interested in Quality Assurance
+- 🌱 I’m currently learning TAE
 
 <!---
 EderCB/EderCB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
